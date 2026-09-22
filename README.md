@@ -1,6 +1,6 @@
 # medicalchat
 
-A new Flutter project.
+A new Flutter project. Zohaib Anwer
 
 ## Getting Started
 
